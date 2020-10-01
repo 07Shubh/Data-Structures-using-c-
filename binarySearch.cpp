@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 
-#define MAX_SIZE 5
+#define MAX_SIZE 10
 
 using namespace std;
 
